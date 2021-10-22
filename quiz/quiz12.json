@@ -1,0 +1,82 @@
+{"items": [
+    {
+      'q': 'The composition of ECF closely resembles that of',
+      'a': 'Blood',
+      'b': 'Sea Water',
+      'c': 'Sugar Solution',
+      'd': 'Blood clot',
+      'k': 2
+    },
+{
+      'q': 'The volume of transcellular fluid when compared to ECF and ICF',
+      'a': 'Very small',
+      'b': 'Very large',
+      'c': 'More than ECF & Less than ICF',
+      'd': 'More than ICF & Less than ECF',
+      'k': 1
+    },
+{
+      'q': 'Total Body Water (TBW) is measured using dilution principle where  an injected marker will be evenly distributed in all the compartments of body fluids.  The marker(s) used to measure TBW is,',
+      'a': 'Antipyrine',
+      'b': 'Deuterium Oxide',
+      'c': 'Tritium Oxide',
+      'd': 'All of the above',
+      'k': 4
+    },
+{
+      'q': '200ml of Deuterium Oxide (D2O) was infused intravenously into a 70 kg person. After 2 hours, the concentration of D2O was found to be 0.005 mL/mL of plasma and urine concentration 1mL. Then the TBW calculated is',
+      'a': '32.5 L',
+      'b': '40% of Body Weight',
+      'c': '39.8 L',
+      'd': 'Both 2 and 3',
+      'k': 3
+    },
+{
+      'q': 'Most accurate measurement of ECF volume can be done by using',
+      'a': 'Aminopyrine',
+      'b': 'Antipyrine',
+      'c': 'Inulin',
+      'd': 'Sucrose',
+      'k': 3
+    },
+{
+      'q': 'The function of electrolyte in the body is',
+      'a': 'Helping in muscle contraction',
+      'b': 'Maintenance of acid base balance',
+      'c': 'Formation of bones and teeth',
+      'd': 'All the above',
+      'k': 4
+    },
+{
+      'q': 'Ringer lactate contains all except',
+      'a': 'Sodium',
+      'b': 'Pottasium',
+      'c': 'Bicarbonate',
+      'd': 'Chloride',
+      'k': 3
+    },
+{
+      'q': 'Hodgkin's cycle is related to',
+      'a': 'Circulatory shock',
+      'b': 'Excitation of excitable cells',
+      'c': 'Parturition reflex',
+      'd': 'Blood coagulation',
+      'k': 2
+    },
+{
+      'q': 'Maintaining nearly constant conditions in the internal environment is called',
+      'a': 'Hemostasis',
+      'b': 'Milieu interiur',
+      'c': 'Hodgkin's cycle',
+      'd': 'Homeostasis',
+      'k': 4
+    },
+{
+      'q': 'Homeostasis is achieved with the help of',
+      'a': 'Nervous System',
+      'b': 'Endocrine System',
+      'c': 'Both A and B',
+      'd': 'None of the above',
+      'k': 3
+    }
+  ]}
